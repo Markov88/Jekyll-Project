@@ -1,0 +1,17 @@
+body {
+    color:var(--color-text-main,red);
+}
+
+.site {
+    padding: var(--spacing-size,2em);
+ 
+}
+
+.site-content {
+    max-width: 60rem;
+    margin:0 auto;  
+}
+
+body p:nth-child(4){
+    color:blue;
+}
